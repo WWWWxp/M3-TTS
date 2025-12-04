@@ -1,7 +1,9 @@
 
 <div align="center">
-# $\Huge \boldsymbol{\mathsf{\color{#6366f1}M\color{#a855f7}3\color{#ec4899}\text{-}TTS}}$
-# $\Large \boldsymbol{\mathsf{\color{#6366f1}M\color{#a855f7}3\color{#ec4899}\text{-}TTS}}: \mathsf{\color{#de2910}M\text{ulti-}\color{#de2910}m\text{odal\ DiT\ Alignment\ \&\ }\color{#de2910}M\text{el-latent}}$
+
+$\Huge \boldsymbol{\mathsf{\color{#6366f1}M\color{#a855f7}3\color{#ec4899}\text{-}TTS}}$
+
+$\Large \mathsf{\color{#de2910}M\text{ulti-}\color{#de2910}m\text{odal\ DiT\ Alignment\ \&\ }\color{#de2910}M\text{el-latent}}$
 
 </div>
 
