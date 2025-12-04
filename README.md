@@ -1,16 +1,11 @@
 
 <div align="center">
 
-$\Large \boldsymbol{\mathsf{\color{#6366f1}M\color{#a855f7}3\color{#ec4899}\text{-}TTS}}: \mathsf{\color{#de2910}M\color{black}\text{ulti-}\color{#de2910}m\color{black}\text{odal\ DiT\ Alignment\ \&\ }\color{#de2910}M\color{black}\text{el-latent}}$
+
+$\Large \boldsymbol{\mathsf{\color{#6366f1}M\color{#a855f7}3\color{#ec4899}\text{-}TTS}}: \mathsf{\color{#de2910}M\color{black}\text{ulti-}\color{#de2910}M\color{black}\text{odal\ DiT\ Alignment}\ \color{black}\\&\ \color{#de2910}M\color{black}\text{el-latent}}$
 
 </div>
 
-<div align="center">
-
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](arXiv_Link_Here) 
-[![Demo Page](https://img.shields.io/badge/Demo-Page-blue)](https://wwwwxp.github.io/M3-TTS-Demo/)
-<!-- [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue)](Demo_Link_Here) -->
-</div>
 
 ---
 
