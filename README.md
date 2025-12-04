@@ -35,3 +35,14 @@ $\Large \boldsymbol{\mathsf{\color{#6366f1}M\color{#a855f7}3\color{#ec4899}\text
 ## 🙌 Acknowledgements
 
 This project is built upon the excellent work of **[F5-TTS](https://github.com/SWivid/F5-TTS)**, **[MMAudio](https://github.com/hkchengrex/MMAudio)** and **[Zip-Voice](https://github.com/k2-fsa/ZipVoice)**. We thank the authors for their open-source contributions.
+
+
+
+## ✒️ Citation
+If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
+@article{wang2026m3tts,
+  title={M3-TTS: Multi-modal DiT Alignment \& Mel-latent for Zero-shot High-fidelity Speech Synthesis},
+  author={Wang, Xiaopeng and Qiang, Chunyu and Fu, Ruibo and others},
+  journal={Submitted to ICASSP 2026},
+  year={2026}
+}
