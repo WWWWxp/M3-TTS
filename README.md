@@ -34,9 +34,10 @@ This project is built upon the excellent work of **[F5-TTS](https://github.com/S
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝:
 
 ```bibtex
-@article{wang2025m3tts,
-  title={M3-TTS: Multi-modal DiT Alignment \& Mel-latent for Zero-shot High-fidelity Speech Synthesis},
-  author={Wang, Xiaopeng and Qiang, Chunyu and Fu, Ruibo and others},
-  journal={arXiv preprint arXiv:2512.04720},
-  year={2025}
+@inproceedings{wang2026m3,
+  title={M3-TTS: Native Two-Stream Multi-Modal Diffusion Transformer for Zero-Shot Speech Synthesis},
+  author={Wang, Xiaopeng and Qiang, Chunyu and Fu, Ruibo and Wen, Zhengqi and Guo, Yuxin and Liu, Xuefei and Liu, Yukun and Liang, Yuzhe and Yin, Kang and Ma, Teng and others},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2026},
+  pages={5061--5071},
+  year={2026}
 }
