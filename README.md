@@ -13,12 +13,6 @@ $\Large \boldsymbol{\mathsf{\color{#6366f1}M\color{#a855f7}3\color{#ec4899}\text
 
 </div>
 
-## 📅 Roadmap
-
-- [x] Release model code
-- [ ] Release training and inference code
-- [ ] Release pre-trained model weights
-
 ## 🔥 Key Features
 
 - **No Pseudo-Alignment:** Achieves stable alignment implicitly via Joint-DiT attention.
